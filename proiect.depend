@@ -1,0 +1,163 @@
+# depslib dependency file v1.0
+1673203838 source:c:\users\tudor\documents\proiect\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"task.h"
+	"ui.h"
+	"team.h"
+	"member.h"
+	"stats.h"
+	"teams_members.h"
+
+1673203474 c:\users\tudor\documents\proiect\task.h
+	<stdlib.h>
+
+1673203806 source:c:\users\tudor\documents\proiect\ui.c
+	<stdio.h>
+	<string.h>
+	"task.h"
+	"ui.h"
+	"team.h"
+	"member.h"
+	"stats.h"
+	"teams_members.h"
+
+1673195313 c:\users\tudor\documents\proiect\ui.h
+	<stdlib.h>
+
+1673203937 source:c:\users\tudor\documents\proiect\task.c
+	<stdio.h>
+	<string.h>
+	"task.h"
+	"team.h"
+	"ui.h"
+	"stats.h"
+	"teams_members.h"
+
+1673183056 c:\users\tudor\documents\proiect\team.h
+
+1673193380 c:\users\tudor\documents\proiect\member.h
+
+1673193384 source:c:\users\tudor\documents\proiect\member.c
+	<stdio.h>
+	<string.h>
+	"member.h"
+	"team.h"
+	"task.h"
+	"ui.h"
+
+1673182429 source:c:\users\tudor\documents\proiect\team.c
+	<stdlib.h>
+	<string.h>
+	"task.h"
+	"ui.h"
+	"team.h"
+	"member.h"
+
+1673195306 c:\users\tudor\documents\proiect\stats.h
+	<stdlib.h>
+
+1673204067 source:c:\users\tudor\documents\proiect\stats.c
+	<stdio.h>
+	<string.h>
+	"task.h"
+	"ui.h"
+	"team.h"
+	"member.h"
+	"stats.h"
+	"teams_members.h"
+
+1673205484 source:c:\users\tudor\documents\proiect\teams_members.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"task.h"
+	"ui.h"
+	"teams_members.h"
+
+1673202411 c:\users\tudor\documents\proiect\teams_members.h
+	<stdlib.h>
+
+1673207925 source:c:\users\user\desktop\proiect\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"task.h"
+	"ui.h"
+	"team.h"
+	"member.h"
+	"stats.h"
+	"teams_members.h"
+
+1673207925 c:\users\user\desktop\proiect\task.h
+	<stdlib.h>
+
+1673207925 c:\users\user\desktop\proiect\ui.h
+	<stdlib.h>
+
+1673207925 c:\users\user\desktop\proiect\team.h
+
+1673207925 c:\users\user\desktop\proiect\member.h
+
+1673207925 c:\users\user\desktop\proiect\stats.h
+	<stdlib.h>
+
+1673207925 c:\users\user\desktop\proiect\teams_members.h
+	<stdlib.h>
+
+1673207925 source:c:\users\user\desktop\proiect\member.c
+	<stdio.h>
+	<string.h>
+	"member.h"
+	"team.h"
+	"task.h"
+	"ui.h"
+
+1673207925 source:c:\users\user\desktop\proiect\stats.c
+	<stdio.h>
+	<string.h>
+	"task.h"
+	"ui.h"
+	"team.h"
+	"member.h"
+	"stats.h"
+	"teams_members.h"
+
+1673207925 source:c:\users\user\desktop\proiect\task.c
+	<stdio.h>
+	<string.h>
+	"task.h"
+	"team.h"
+	"ui.h"
+	"stats.h"
+	"teams_members.h"
+
+1673207925 source:c:\users\user\desktop\proiect\team.c
+	<stdlib.h>
+	<string.h>
+	"task.h"
+	"ui.h"
+	"team.h"
+	"member.h"
+
+1673207925 source:c:\users\user\desktop\proiect\teams_members.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"task.h"
+	"ui.h"
+	"teams_members.h"
+
+1673207925 source:c:\users\user\desktop\proiect\ui.c
+	<stdio.h>
+	<string.h>
+	"task.h"
+	"ui.h"
+	"team.h"
+	"member.h"
+	"stats.h"
+	"teams_members.h"
+
